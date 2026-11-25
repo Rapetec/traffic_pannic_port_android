@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: petrol station road
+  m_SubMeshes:
+  - firstByte: 0
+    indexCount: 22
+    isTriStrip: 2
+    triangleCount: 10
+    firstVertex: 0
+    vertexCount: 16
+    localAABB:
+      m_Center: {x: 0, y: -2.1316282E-17, z: 11.240048}
+      m_Extent: {x: 23.814938, y: 0, z: 27.418747}
+  m_MeshCompression: 0
+  m_IndexBuffer: 02000200000007000600050004000300010001000900090009000c0008000d000d000b000b000e000a000f00
+  m_Skin: []
+  m_BindPose: []
+  m_VertexData:
+    m_CurrentChannels: 59
+    m_VertexCount: 16
+    m_Streams[0]:
+      channelMask: 59
+      offset: 0
+      stride: 56
+      align: 16
+    m_Streams[1]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 16
+    m_Streams[2]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 16
+    m_Streams[3]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 16
+    m_DataSize: 896
+    _typelessdata: fe84be41a69bc4a39ba21a42000000000000803f0000000000000000000000000000000000000000000080bf0000000000000000000080bffe84bec1a69bc4a39ba21a42000000000000803f000000000000803f000000000000803f00000000000080bf0000000000000000000080bffe84be41a69bc4a31cd037c1000000000000803f00000000000000000000803f000000000000803f000080bf0000000000000000000080bffe84bec1a69bc4a31cd037c1000000000000803f000000000000803f0000803f0000803f0000803f000080bf0000000000000000000080bf6f2325c1a69bc4a39ba21a42000000000000803f000000005179373f000000005179373f00000000000080bf0000000000000000000080bf6f2325c1a69bc4a31cd037c1000000000000803f000000005179373f0000803f5179373f0000803f000080bf0000000000000000000080bfea282241a69bc4a39ba21a42000000000000803f00000000aa0d933e00000000aa0d933e00000000000080bf0000000000000000000080bfea282241a69bc4a31cd037c1000000000000803f00000000aa0d933e0000803faa0d933e0000803f000080bf0000000000000000000080bf6f2325c1a69bc4a3f96d81c1000000000000803f000000005883173f6d76163f5883173f6d76163f000080bf0000000000000000000080bffe84bec1a69bc4a3f96d81c1000000000000803f0000000051f0803f6d76163f51f0803f6d76163f000080bf0000000000000000000080bffe84be41a69bc4a3f96d81c1000000000000803f0000000051f0803f6d76163f51f0803f6d76163f0000803f00000000000000000000803fea282241a69bc4a3f96d81c1000000000000803f000000005883173f6d76163f5883173f6d76163f0000803f00000000000000000000803ffe84bec1a69bc4a31cd037c1000000000000803f0000000051f0803f7400cb3e51f0803f7400cb3e000080bf0000000000000000000080bf6f2325c1a69bc4a31cd037c1000000000000803f000000005883173f7400cb3e5883173f7400cb3e000080bf0000000000000000000080bfea282241a69bc4a31cd037c1000000000000803f000000005883173f7400cb3e5883173f7400cb3e0000803f00000000000000000000803ffe84be41a69bc4a31cd037c1000000000000803f0000000051f0803f7400cb3e51f0803f7400cb3e0000803f00000000000000000000803f
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BindPoses:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Colors:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+  m_LocalAABB:
+    m_Center: {x: 0, y: -2.1316282E-17, z: 11.240048}
+    m_Extent: {x: 23.814938, y: 0, z: 27.418747}
+  m_MeshUsageFlags: 0
+  m_MeshOptimized: 1

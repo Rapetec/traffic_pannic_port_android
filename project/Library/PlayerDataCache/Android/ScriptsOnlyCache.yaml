@@ -1,0 +1,1280 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp-firstpass.dll:
+    - ChartboostManager
+    - EZScreenPlacement
+    - EtceteraAndroidEventListener
+    - EtceteraAndroidManager
+    - EtceteraEventListener
+    - EtceteraManager
+    - FacebookAndroidEventListener
+    - FacebookAndroidManager
+    - GameCenterManager
+    - IABAndroidEventListener
+    - IABAndroidManager
+    - MoPubAndroidManager
+    - MoPubManager
+    - NADSBanner
+    - NADSManager
+    - PackedSprite
+    - SocialNetworkingEventListener
+    - SocialNetworkingManager
+    - Sprite
+    - SpriteText
+    - StoreKitEventListener
+    - StoreKitManager
+    - TwitterAndroidEventListener
+    - UIActionBtn
+    - UIBtnChangePanel
+    - UIBtnWWW
+    - UIButton
+    - UIListItemContainer
+    - UIManager
+    - UIPanel
+    - UIPanelManager
+    - UIScrollList
+    - UIStateToggleBtn
+    Assembly-CSharp.dll:
+    - AndroidMenuBack
+    - AppController
+    - AttachToCurrentCamera
+    - BigExplosionController
+    - CameraController
+    - CameraShake
+    - ChallengeController
+    - CollisionCube
+    - CraneFall
+    - EmergencyLightFlasher
+    - EmergencyVehicleController
+    - EnableHelper
+    - Exploder
+    - ExplosiveObject
+    - FireworksTrail
+    - GameCenterEventListener
+    - GameManager
+    - GameNav
+    - GameOverRecordImage
+    - HeadlightFlasher
+    - IAPHelper
+    - IndicatorFlasher
+    - InitialMenuPanelController
+    - LaneController
+    - LaneScore
+    - LoadGameScript
+    - LoadingBarAnimation
+    - MainMenuPanelDelegate
+    - MenuNav
+    - MenuSceneController
+    - MoPubEventListener
+    - NADSDeviceScale
+    - NotificationManager
+    - ParkedCarUpgrades
+    - ParticleEmitter
+    - PetrolStationExplosion
+    - PortHide
+    - PurchaseManager
+    - ResizeCamera
+    - ScrollListArrow
+    - ShareDisplay
+    - SizeSpriteToScreen
+    - SocialController
+    - SoundController
+    - SpecialEffectsManager
+    - SpriteTextChanger
+    - TankVengence
+    - TaxiController
+    - TextController
+    - UIScript_Game
+    - UIScript_Menu
+    - UIScript_Notification
+    - UIScript_ShopItem
+    - VehicleController
+  sceneClasses:
+    Assets/Scenes/Game.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
+    - Class: 59
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 111
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11326}
+    - Class: 114
+      Script: {instanceID: 11342}
+    - Class: 114
+      Script: {instanceID: 11350}
+    - Class: 114
+      Script: {instanceID: 11362}
+    - Class: 114
+      Script: {instanceID: 11382}
+    - Class: 114
+      Script: {instanceID: 11384}
+    - Class: 114
+      Script: {instanceID: 11460}
+    - Class: 114
+      Script: {instanceID: 11464}
+    - Class: 114
+      Script: {instanceID: 11468}
+    - Class: 114
+      Script: {instanceID: 11476}
+    - Class: 114
+      Script: {instanceID: 11478}
+    - Class: 114
+      Script: {instanceID: 11498}
+    - Class: 114
+      Script: {instanceID: 11506}
+    - Class: 114
+      Script: {instanceID: 11510}
+    - Class: 114
+      Script: {instanceID: 11526}
+    - Class: 114
+      Script: {instanceID: 11532}
+    - Class: 114
+      Script: {instanceID: 11536}
+    - Class: 114
+      Script: {instanceID: 11542}
+    - Class: 114
+      Script: {instanceID: 11552}
+    - Class: 114
+      Script: {instanceID: 11556}
+    - Class: 114
+      Script: {instanceID: 11564}
+    - Class: 114
+      Script: {instanceID: 11574}
+    - Class: 114
+      Script: {instanceID: 11594}
+    - Class: 114
+      Script: {instanceID: 11626}
+    - Class: 114
+      Script: {instanceID: 11646}
+    - Class: 114
+      Script: {instanceID: 11684}
+    - Class: 114
+      Script: {instanceID: 11694}
+    - Class: 114
+      Script: {instanceID: 11720}
+    - Class: 114
+      Script: {instanceID: 11724}
+    - Class: 114
+      Script: {instanceID: 11730}
+    - Class: 114
+      Script: {instanceID: 11738}
+    - Class: 114
+      Script: {instanceID: 11766}
+    - Class: 114
+      Script: {instanceID: 11768}
+    - Class: 114
+      Script: {instanceID: 11782}
+    - Class: 114
+      Script: {instanceID: 11798}
+    - Class: 114
+      Script: {instanceID: 11802}
+    - Class: 114
+      Script: {instanceID: 11812}
+    - Class: 114
+      Script: {instanceID: 11830}
+    - Class: 114
+      Script: {instanceID: 11850}
+    - Class: 114
+      Script: {instanceID: 11862}
+    - Class: 114
+      Script: {instanceID: 11872}
+    - Class: 114
+      Script: {instanceID: 11876}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 134
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    Assets/Scenes/Landing.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
+    - Class: 59
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 111
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11326}
+    - Class: 114
+      Script: {instanceID: 11388}
+    - Class: 114
+      Script: {instanceID: 11410}
+    - Class: 114
+      Script: {instanceID: 11456}
+    - Class: 114
+      Script: {instanceID: 11458}
+    - Class: 114
+      Script: {instanceID: 11464}
+    - Class: 114
+      Script: {instanceID: 11468}
+    - Class: 114
+      Script: {instanceID: 11478}
+    - Class: 114
+      Script: {instanceID: 11486}
+    - Class: 114
+      Script: {instanceID: 11498}
+    - Class: 114
+      Script: {instanceID: 11506}
+    - Class: 114
+      Script: {instanceID: 11522}
+    - Class: 114
+      Script: {instanceID: 11526}
+    - Class: 114
+      Script: {instanceID: 11532}
+    - Class: 114
+      Script: {instanceID: 11556}
+    - Class: 114
+      Script: {instanceID: 11588}
+    - Class: 114
+      Script: {instanceID: 11594}
+    - Class: 114
+      Script: {instanceID: 11608}
+    - Class: 114
+      Script: {instanceID: 11620}
+    - Class: 114
+      Script: {instanceID: 11634}
+    - Class: 114
+      Script: {instanceID: 11646}
+    - Class: 114
+      Script: {instanceID: 11650}
+    - Class: 114
+      Script: {instanceID: 11734}
+    - Class: 114
+      Script: {instanceID: 11736}
+    - Class: 114
+      Script: {instanceID: 11738}
+    - Class: 114
+      Script: {instanceID: 11746}
+    - Class: 114
+      Script: {instanceID: 11752}
+    - Class: 114
+      Script: {instanceID: 11760}
+    - Class: 114
+      Script: {instanceID: 11802}
+    - Class: 114
+      Script: {instanceID: 11812}
+    - Class: 114
+      Script: {instanceID: 11822}
+    - Class: 114
+      Script: {instanceID: 11832}
+    - Class: 114
+      Script: {instanceID: 11838}
+    - Class: 114
+      Script: {instanceID: 11846}
+    - Class: 114
+      Script: {instanceID: 11848}
+    - Class: 114
+      Script: {instanceID: 11850}
+    - Class: 114
+      Script: {instanceID: 11854}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 134
+      Script: {instanceID: 0}
+    - Class: 136
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    Assets/Scenes/Menu.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11328}
+    - Class: 114
+      Script: {instanceID: 11346}
+    - Class: 114
+      Script: {instanceID: 11364}
+    - Class: 114
+      Script: {instanceID: 11366}
+    - Class: 114
+      Script: {instanceID: 11384}
+    - Class: 114
+      Script: {instanceID: 11396}
+    - Class: 114
+      Script: {instanceID: 11410}
+    - Class: 114
+      Script: {instanceID: 11460}
+    - Class: 114
+      Script: {instanceID: 11464}
+    - Class: 114
+      Script: {instanceID: 11466}
+    - Class: 114
+      Script: {instanceID: 11472}
+    - Class: 114
+      Script: {instanceID: 11476}
+    - Class: 114
+      Script: {instanceID: 11480}
+    - Class: 114
+      Script: {instanceID: 11502}
+    - Class: 114
+      Script: {instanceID: 11506}
+    - Class: 114
+      Script: {instanceID: 11516}
+    - Class: 114
+      Script: {instanceID: 11526}
+    - Class: 114
+      Script: {instanceID: 11538}
+    - Class: 114
+      Script: {instanceID: 11542}
+    - Class: 114
+      Script: {instanceID: 11552}
+    - Class: 114
+      Script: {instanceID: 11564}
+    - Class: 114
+      Script: {instanceID: 11584}
+    - Class: 114
+      Script: {instanceID: 11588}
+    - Class: 114
+      Script: {instanceID: 11604}
+    - Class: 114
+      Script: {instanceID: 11626}
+    - Class: 114
+      Script: {instanceID: 11638}
+    - Class: 114
+      Script: {instanceID: 11640}
+    - Class: 114
+      Script: {instanceID: 11642}
+    - Class: 114
+      Script: {instanceID: 11646}
+    - Class: 114
+      Script: {instanceID: 11672}
+    - Class: 114
+      Script: {instanceID: 11682}
+    - Class: 114
+      Script: {instanceID: 11684}
+    - Class: 114
+      Script: {instanceID: 11702}
+    - Class: 114
+      Script: {instanceID: 11720}
+    - Class: 114
+      Script: {instanceID: 11756}
+    - Class: 114
+      Script: {instanceID: 11766}
+    - Class: 114
+      Script: {instanceID: 11778}
+    - Class: 114
+      Script: {instanceID: 11802}
+    - Class: 114
+      Script: {instanceID: 11808}
+    - Class: 114
+      Script: {instanceID: 11816}
+    - Class: 114
+      Script: {instanceID: 11830}
+    - Class: 114
+      Script: {instanceID: 11840}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 16cb5b43811521422d9b70797267bfe9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: EmergencyVehicleController
+  - hash:
+      serializedVersion: 2
+      Hash: 5b186f97d651cacf32079614d61ac874
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: NADSBanner
+  - hash:
+      serializedVersion: 2
+      Hash: 989dd42c6ca703f94d7ad4e686065267
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LaneController
+  - hash:
+      serializedVersion: 2
+      Hash: f52e1f377bbebddad92a945aa55bd27a
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UIBtnWWW
+  - hash:
+      serializedVersion: 2
+      Hash: a430e128dbee5f538ce796a0ce2893f8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraShake
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AppInitialiser
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MonoBehaviourSingleton
+  - hash:
+      serializedVersion: 2
+      Hash: 00d3c7f54b7ec521bdbfe6bde186562a
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UIStateToggleBtn
+  - hash:
+      serializedVersion: 2
+      Hash: cfee7283c07e27a85ab29dd5832c91d7
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UIBtnChangePanel
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: UIScript_Menu
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ShopPrices
+  - hash:
+      serializedVersion: 2
+      Hash: 34ba2306b3ba6203daf51c64e2fd034b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CollisionCube
+  - hash:
+      serializedVersion: 2
+      Hash: 11eef9c9ab38882a6644602f81c643e4
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UIButton
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: EtceteraAndroidManager
+  - hash:
+      serializedVersion: 2
+      Hash: b02070f847e004635a9769f444af7ac2
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UIProgressBar
+  - hash:
+      serializedVersion: 2
+      Hash: 3a181a9a618008ef8a834a649d81db68
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: InitialMenuPanelController
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad8912c39efac3cdb94d9eca305c99a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SizeSpriteToScreen
+  - hash:
+      serializedVersion: 2
+      Hash: dced6be5da4fc618e9a17de7775cbb94
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UIInteractivePanel
+  - hash:
+      serializedVersion: 2
+      Hash: 2a1dac8caa30ed92a90f9d216b05a8b1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ScoreItem
+  - hash:
+      serializedVersion: 2
+      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: CubeRotator
+  - hash:
+      serializedVersion: 2
+      Hash: 32081a6fa3521d6ee2a7870154cbc418
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CraneFall
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AppController
+  - hash:
+      serializedVersion: 2
+      Hash: 4c9129dde2fb3e6d762601835c66b20e
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: EZScreenPlacement
+  - hash:
+      serializedVersion: 2
+      Hash: f33caaa6f08fa4b08e2ef5071edc0e5f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UIManager
+  - hash:
+      serializedVersion: 2
+      Hash: 78ff23ee8e8ddf0e9d0076b4a0237be6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MenuNav
+  - hash:
+      serializedVersion: 2
+      Hash: 6465aa45f39afcecbd9f15919c944477
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TankVengence
+  - hash:
+      serializedVersion: 2
+      Hash: d3b3fb71d93c843fa3ba1358a3e8989b
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UIScrollList
+  - hash:
+      serializedVersion: 2
+      Hash: c540f2a550126395e1856d9302ac2fe5
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UIBtnLoadScene
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MoPubEventListener
+  - hash:
+      serializedVersion: 2
+      Hash: 343c6fa08342a5145b8bdcd06eea7176
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: EmergencyLightFlasher
+  - hash:
+      serializedVersion: 2
+      Hash: 09aa0411d0c35a16dcce53989653f6c5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SpriteTextChanger
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: StoreKitEventListener
+  - hash:
+      serializedVersion: 2
+      Hash: 55b09cfdc187f5e3391f47b105c0031f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UIRadioBtn
+  - hash:
+      serializedVersion: 2
+      Hash: 3bf7ae3d6e1c20ad2602db87a3dc00af
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ParticleEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: 599fcc25b0e36d547f5021d6c4b374ab
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: IAPHelper
+  - hash:
+      serializedVersion: 2
+      Hash: cf78f636e77ef04f8fa91a7e0ddcad03
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: PackedSprite
+  - hash:
+      serializedVersion: 2
+      Hash: 03c73b9dcc30d6762f36a43cd9cecd67
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AchievementController
+  - hash:
+      serializedVersion: 2
+      Hash: 414b4dbcb7af3fab997e08145ef35eb2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TextController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: SpriteAnimationPump
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AndroidMenuBack
+  - hash:
+      serializedVersion: 2
+      Hash: e3384285770fbf3dbc2dcc3bd352ce9c
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: SuperSprite
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: SocialNetworkingManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: StartPanelScript
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LoadingBarAnimation
+  - hash:
+      serializedVersion: 2
+      Hash: 77d61a7ad48b89e7d3a48a54ddb74248
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Exploder
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: ChartboostDelegate
+  - hash:
+      serializedVersion: 2
+      Hash: fe5307b1264e441518d8ac1655c505be
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SpecialEffectsManager
+  - hash:
+      serializedVersion: 2
+      Hash: 47d00862eb3250a13f20e824e96a147c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SocialController
+  - hash:
+      serializedVersion: 2
+      Hash: 2b883b609fd1ac888b5a3088abf8a738
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UIButton3D
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: QualityTime
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: EtceteraEventListener
+  - hash:
+      serializedVersion: 2
+      Hash: fb364f7560cdef2390c6543134c22129
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: VehicleController
+  - hash:
+      serializedVersion: 2
+      Hash: c20c1bf52f961324efd83792914ca492
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: TimedObjectDestructor
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: SocialNetworkingEventListener
+  - hash:
+      serializedVersion: 2
+      Hash: a7660431c0e348507e259799fe84e5f0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MoPubAndroidEventListener
+  - hash:
+      serializedVersion: 2
+      Hash: d2e643dee1fc888d0ccd4c2c70069375
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: UIScript_ShopItem
+  - hash:
+      serializedVersion: 2
+      Hash: 6737bdf6a7f78f22521ab2472e7968f0
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: Sprite
+  - hash:
+      serializedVersion: 2
+      Hash: 1f38112e164c45a0fb0a04e4f44b9d47
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: HeadlightFlasher
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: NativeAlert
+  - hash:
+      serializedVersion: 2
+      Hash: 04684589b161994b0bf56ed638682c11
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: SpriteManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: NeonPlay
+    className: NPFileManager
+  - hash:
+      serializedVersion: 2
+      Hash: 9abff9705d6f3e8d2c67d75521667131
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MenuSceneController
+  - hash:
+      serializedVersion: 2
+      Hash: 9abb3859b28fd7713e1bb0f35e2e14f1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: FireworksTrail
+  - hash:
+      serializedVersion: 2
+      Hash: 30634d4aab9ad1c64650aa2f48fad7b6
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UIListItem
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: MoPubManager
+  - hash:
+      serializedVersion: 2
+      Hash: 59bd007b53b0304caca46747d7b36391
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LeaderboardScript
+  - hash:
+      serializedVersion: 2
+      Hash: 11eef9c9ab38882a6644602f81c643e4
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UIActionBtn
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: IABAndroidEventListener
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AnimatedLoadingBar
+  - hash:
+      serializedVersion: 2
+      Hash: 284f5d9bdaed2e2fa4d300ea0adcd718
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: EnableHelper
+  - hash:
+      serializedVersion: 2
+      Hash: 572f657d1481837924e3d743dffbb856
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UIListItemContainer
+  - hash:
+      serializedVersion: 2
+      Hash: fbde11141f928f4f3889a66f7602f1ac
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ScrollListArrow
+  - hash:
+      serializedVersion: 2
+      Hash: 4f4b51524132a8fc973195fc2753caa8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ResizeCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: ChartboostManager
+  - hash:
+      serializedVersion: 2
+      Hash: d14871bc1426484b4a04730d8a972931
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: SimpleSprite
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: EZAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: c135458260428095b136337e519b79c2
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UIVirtualScreen
+  - hash:
+      serializedVersion: 2
+      Hash: 45e29ac8157b98be731560313f52ec32
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MainMenuPanelDelegate
+  - hash:
+      serializedVersion: 2
+      Hash: 4e110630d0db592f0e5047b6ae32af03
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: AutoSprite
+  - hash:
+      serializedVersion: 2
+      Hash: 426bcae61659a51c50a59ff62bc9d6d1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AchievementItem
+  - hash:
+      serializedVersion: 2
+      Hash: 79192f19b63d5838acafcf31e60ae175
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ShareDisplay
+  - hash:
+      serializedVersion: 2
+      Hash: 78194a3d82ae6ef4b90b125e183d58fb
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: SpriteText
+  - hash:
+      serializedVersion: 2
+      Hash: 8e5e57ec1eedc2e25d321b61d2b726c6
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UIStateToggleBtn3D
+  - hash:
+      serializedVersion: 2
+      Hash: a1590d0def3288b055c2365f2d04a04d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LaneScore
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: OrientationManager
+  - hash:
+      serializedVersion: 2
+      Hash: 4ad512a278e699f8c8d5692dd8b19cc3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TestScreenScript
+  - hash:
+      serializedVersion: 2
+      Hash: 56739360499b05455fd921f9539bcc04
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SoundController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: TwitterAndroidManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: EtceteraAndroidEventListener
+  - hash:
+      serializedVersion: 2
+      Hash: 04ae8ab64864c55af79a08a270e82d48
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ParkedCarUpgrades
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Challenge
+  - hash:
+      serializedVersion: 2
+      Hash: 9d897edbca67800d2f49b7a2d4b37550
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameNav
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PurchaseManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: GameCenterManager
+  - hash:
+      serializedVersion: 2
+      Hash: c88a646ee5c4bf28074a5d7ae7cc1a56
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: IndicatorFlasher
+  - hash:
+      serializedVersion: 2
+      Hash: 422ca113886e0a2ed3baea3ddb118ca9
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UITextField
+  - hash:
+      serializedVersion: 2
+      Hash: 44510e0d3d8f12fa2efb04efa1b56f03
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PetrolStationExplosion
+  - hash:
+      serializedVersion: 2
+      Hash: a6da37e591dde8d817eb61cfa25fe93d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: HUDAlignment
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: IABAndroidManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: NADSDeviceScale
+  - hash:
+      serializedVersion: 2
+      Hash: 886715fce5121ca9c9fc7722c736511f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: NADSManager
+  - hash:
+      serializedVersion: 2
+      Hash: 3a9757c11273c1c6358f6a0db1b8c8a4
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UIPanel
+  - hash:
+      serializedVersion: 2
+      Hash: b7d964aaf231878e9d635fb6a19a0c79
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: TwitterAndroidEventListener
+  - hash:
+      serializedVersion: 2
+      Hash: 4d0fda98d6d30aea3b2f00e4a46ecac4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameOverRecordImage
+  - hash:
+      serializedVersion: 2
+      Hash: b59e00651ed86daec848178656cfab6d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RandomExplosion
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AttachToCurrentCamera
+  - hash:
+      serializedVersion: 2
+      Hash: e934c83f3c34818817c2940abef44039
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UIPanelManager
+  - hash:
+      serializedVersion: 2
+      Hash: 2f8091514c07a631e02c3095266c1567
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UIPanelTab
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PortHide
+  - hash:
+      serializedVersion: 2
+      Hash: d7fd36a48eef8918947a5626a52ca9e1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TaxiController
+  - hash:
+      serializedVersion: 2
+      Hash: fdba9edc20f4b4cc2d8ac77cef32c552
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UISlider
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: FacebookAndroidEventListener
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ResizeScrollView
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: StoreKitManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: NeonPlay
+    className: NPUtility
+  - hash:
+      serializedVersion: 2
+      Hash: d3383b7d54e8e18ef966ff273a63edd7
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UIRadioBtn3D
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameCenterEventListener
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: EtceteraManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LoadGameScript
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ChallengeController
+  - hash:
+      serializedVersion: 2
+      Hash: 7cf8cc29232786087bab728726f5cf92
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UIBistateInteractivePanel
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: FacebookAndroidManager
+  - hash:
+      serializedVersion: 2
+      Hash: f2c7d3da6bb5f451793821adaab23d23
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ExplosiveObject
+  - hash:
+      serializedVersion: 2
+      Hash: dbf5a120ea37a1f39a6796d1c919816a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BigExplosionController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: MoPubAndroidManager
+  - hash:
+      serializedVersion: 2
+      Hash: 30634d4aab9ad1c64650aa2f48fad7b6
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UIListButton
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: UIScript_Game
+  - hash:
+      serializedVersion: 2
+      Hash: 11eef9c9ab38882a6644602f81c643e4
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: UIScrollKnob
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: UIScript_Notification
+  - hash:
+      serializedVersion: 2
+      Hash: 2a5e4f7bd1f4041c0b997db478c57d6d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: NotificationManager
+  platform: 13
+  scenePathNames:
+  - Assets/Scenes/Landing.unity
+  - Assets/Scenes/Menu.unity
+  - Assets/Scenes/Game.unity
+  playerPath: /home/raul/Descargas/trafficpanic-port/project/Builds/TrafficPanic3D.apk

@@ -1,0 +1,17 @@
+info face="DeadKansas" size=44 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=50 base=40 scaleW=256 scaleH=128 pages=1 packed=0
+page id=0 file="TPscorewhite_44.png"
+chars count=13
+char id=52 x=1 y=1 width=29 height=46 xoffset=1 yoffset=2 xadvance=31 page=0 chnl=0 letter="4"
+char id=55 x=31 y=1 width=25 height=46 xoffset=2 yoffset=2 xadvance=27 page=0 chnl=0 letter="7"
+char id=50 x=57 y=1 width=24 height=46 xoffset=2 yoffset=2 xadvance=27 page=0 chnl=0 letter="2"
+char id=51 x=82 y=1 width=24 height=46 xoffset=2 yoffset=2 xadvance=26 page=0 chnl=0 letter="3"
+char id=53 x=107 y=1 width=24 height=46 xoffset=2 yoffset=2 xadvance=26 page=0 chnl=0 letter="5"
+char id=54 x=132 y=1 width=24 height=46 xoffset=2 yoffset=2 xadvance=26 page=0 chnl=0 letter="6"
+char id=56 x=157 y=1 width=24 height=46 xoffset=2 yoffset=2 xadvance=26 page=0 chnl=0 letter="8"
+char id=57 x=182 y=1 width=24 height=46 xoffset=2 yoffset=2 xadvance=26 page=0 chnl=0 letter="9"
+char id=36 x=207 y=1 width=22 height=46 xoffset=2 yoffset=2 xadvance=24 page=0 chnl=0 letter="$"
+char id=49 x=230 y=1 width=16 height=46 xoffset=1 yoffset=2 xadvance=18 page=0 chnl=0 letter="1"
+char id=48 x=1 y=48 width=25 height=45 xoffset=2 yoffset=3 xadvance=27 page=0 chnl=0 letter="0"
+char id=44 x=27 y=48 width=9 height=11 xoffset=1 yoffset=38 xadvance=11 page=0 chnl=0 letter=","
+char id=32 x=37 y=48 width=0 height=0 xoffset=19 yoffset=60 xadvance=19 page=0 chnl=0 letter="space"
